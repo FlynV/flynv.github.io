@@ -29,8 +29,8 @@
   ), hsl(240, 2%, 13%);
   --border-gradient-onyx: linear-gradient(
     to bottom right, 
-    hsl(0, 0%, 25%) 0%, 
-    hsla(0, 0%, 25%, 0) 50%
+    hsl(0, 0%, 9%) 0%, 
+    hsla(0, 0%, 11%, 0) 50%
   );
   --text-gradient-yellow: linear-gradient(
     to right, 
@@ -40,8 +40,8 @@
 
   /* solid */
 
-  --jet: hsl(0, 0%, 22%);
-  --onyx: hsl(240, 1%, 17%);
+  --jet: hsl(0, 0%, 11%);
+  --onyx: hsl(0, 0%, 7%);
   --eerie-black-1: hsl(240, 2%, 13%);
   --eerie-black-2: hsl(240, 2%, 12%);
   --smoky-black: hsl(0, 0%, 7%);
