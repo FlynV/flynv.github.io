@@ -5,3 +5,15 @@
   text-align: left!important;
 }
 
+
+.ag-theme-alpine {
+    --ag-background-color: #fff!important;
+}
+
+
+
+
+.ag-theme-alpine-dark {
+    --ag-background-color: #171!important;
+}
+
