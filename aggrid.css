@@ -1,6 +1,6 @@
 .ag-row .ag-cell {
     display: flex!important;
-    justify-content: center!important; /* align horizontal */
-    align-items: center!important;
+    
+  
     vertical-align: bottom!important;
   }
