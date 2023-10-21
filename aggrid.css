@@ -1,7 +1,7 @@
 .ag-row .ag-cell {
   display: flex;
-  justify-content: center; /* align horizontal */
-  align-items: left;
+  justify-content: left; /* align horizontal */
+  align-items: center;
   text-align: left!important;
 }
 
