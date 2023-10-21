@@ -4,3 +4,7 @@
     align-items: center!important;
     vertical-align: bottom!important;
   }
+
+.ag-body-viewport {
+    height: auto !important;
+}
