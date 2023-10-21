@@ -1,6 +1,7 @@
-.cell-vertical-align-text-right {
-  display: flex!important;
-  flex-direction: row-reverse;
-  text-align: right!important;
+.ag-row .ag-cell {
+  display: flex;
+  justify-content: center; /* align horizontal */
   align-items: center;
+  text-align: left!important;
 }
+
