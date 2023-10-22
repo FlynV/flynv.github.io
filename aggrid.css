@@ -33,6 +33,7 @@
 
 body{
 	font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
+	 overflow: hidden!important; /* Hide scrollbars */
 }
 
 .ag-row .ag-cell {
