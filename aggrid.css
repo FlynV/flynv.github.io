@@ -44,15 +44,15 @@ body{
  This is a single-line comment
 
 .ag-theme-balham {
-   --ag-header-background-color: #f5f5f5!important;
-    --ag-odd-row-background-color: #f5f5f5!important;
-    --ag-row-background-color: #ffffff!important;
+   --ag-header-background-color: #fafafa!important;
+    --ag-odd-row-background-color: #fafafa!important;
+    --ag-background-color: #ffffff!important;
 }
 
 .ag-theme-balham-dark {
-     --ag-header-background-color: #0A0A0A!important; 
-     --ag-odd-row-background-color: #0A0A0A!important;
-     --ag-row-background-color: #0d0d0d!important;
+     --ag-header-background-color: #18191A!important; 
+     --ag-odd-row-background-color: #18191A!important;
+   --ag-background-color: #242526!important;
 }
 
 
