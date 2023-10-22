@@ -38,6 +38,11 @@ body {
 
 
 }
+
+.ag-grid {
+height: 75%important;
+}
+
 .ag-row .ag-cell {
   display: flex;
   justify-content: left; /* align horizontal */
