@@ -33,7 +33,12 @@
 
 body{
 	font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
-	 overflow: hidden!important; /* Hide scrollbars */
+	
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent; /* make scrollbar transparent */
 }
 
 .ag-row .ag-cell {
