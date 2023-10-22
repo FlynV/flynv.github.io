@@ -41,6 +41,8 @@ body{
   align-items: center;
 }
 
+/* This is a single-line comment
+
 .ag-theme-alpine {
    --ag-header-background-color: #f5f5f5!important;
     --ag-odd-row-background-color: #f5f5f5!important;
@@ -53,7 +55,7 @@ body{
      --ag-row-background-color: #0d0d0d!important;
 }
 
-
+*/
 
 
 
