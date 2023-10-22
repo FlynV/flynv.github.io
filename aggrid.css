@@ -1,3 +1,5 @@
+@import url(https://db.onlinewebfonts.com/c/561f38b1f4570de0fb8a39d691ab058c?family=Tungsten-Bold);
+
 .ag-row .ag-cell {
   display: flex;
   justify-content: left; /* align horizontal */
@@ -22,3 +24,8 @@
     
 }
 
+#logoName {
+  font-family: "Tungsten-Bold";
+  font-size: 40px;
+  
+}
