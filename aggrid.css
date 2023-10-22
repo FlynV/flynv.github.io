@@ -48,9 +48,7 @@
     --ag-background-color: #ffffff!important;
   --ag-header-background-color: #ffffff!important;
   --ag-odd-row-background-color: #FAFAFA!important;
-min-height: 100%;
-  /* equal to footer height */
-  margin-bottom: -142px; 
+
 }
 
 
@@ -60,9 +58,7 @@ min-height: 100%;
     --ag-background-color: #111111!important;
     --ag-header-background-color: #111111!important;
     --ag-odd-row-background-color: #191919!important;
-	min-height: 100%;
-  /* equal to footer height */
-  margin-bottom: -142px; 
+
     
 }
 
