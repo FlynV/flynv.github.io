@@ -40,7 +40,7 @@ body {
 }
 
 .ag-grid {
-height: 75%important;
+display: inline-block!important;
 }
 
 .ag-row .ag-cell {
