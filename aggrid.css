@@ -39,9 +39,7 @@ body {
 
 }
 
-.ag-grid {
-display: inline-block!important;
-}
+
 
 .ag-row .ag-cell {
   display: flex;
