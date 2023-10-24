@@ -67,6 +67,7 @@ html {
    --ag-background-color: #171717!important;
 }
 
+.circular--landscape { display: inline-block; position: relative; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; }
 
 
 
