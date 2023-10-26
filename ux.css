@@ -33,6 +33,11 @@
 
 
 body {
+	 background:url(https://cdn.dribbble.com/users/43762/screenshots/1193020/line-graph-dribbbble.gif) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 background-color: #12181D!important; 
 color: #8A9AA6!important;
 font-family: 'proxima_nova_rgregular', Helvetica, Arial, sans-serif;
