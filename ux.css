@@ -33,7 +33,9 @@
 
 
 body {
-
+	
+background-repeat: no-repeat;
+background-size: auto;
 background-image: url("https://flynv.github.io/bg.png");
 background-color: #12181D!important; 
 color: #8A9AA6!important;
