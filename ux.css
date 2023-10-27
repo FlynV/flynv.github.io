@@ -38,3 +38,8 @@ background-color: #12181D!important;
 color: white!important;
 font-family: 'Poppins', Helvetica, Arial, sans-serif!important;
 }
+
+
+.q-field__native .q-placeholder {
+color: white!important;
+}
