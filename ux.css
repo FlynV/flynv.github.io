@@ -45,4 +45,7 @@ font-family: 'Anton';
 .q-field__label {
   color:white!important;
   }
+.q-dialog__backdrop {
+    background: rgba(0,0,0,.8)!important;
+}
 
