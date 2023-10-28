@@ -40,7 +40,7 @@ font-family: 'Muli', sans-serif;
 }
 
 
-.q-field__native .q-placeholder {
-	font-family: 'Poppins', Helvetica, Arial, sans-serif!important;
-color: white!important;
-}
+.q-field__label {
+  color:white!important;
+  }
+
