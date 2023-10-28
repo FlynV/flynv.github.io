@@ -46,6 +46,6 @@ font-family: 'Anton';
   color:white!important;
   }
 .q-dialog__backdrop {
-    background-color: rgba(0,0,0,.8)!important;
+    background-color: rgba(0,0,0,0.8)!important;
 }
 
