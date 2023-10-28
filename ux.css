@@ -38,7 +38,9 @@ background-color: #12181D!important;
 color: white!important;
 font-family: 'Muli', sans-serif;
 }
-
+.text-5xl {
+font-family: 'Anton';
+}
 
 .q-field__label {
   color:white!important;
