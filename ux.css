@@ -65,9 +65,9 @@ font-family: 'Anton';
 }
 
 .ag-theme-balham-dark {
-     --ag-header-background-color: #151515!important; 
-     --ag-odd-row-background-color: #151515!important;
-   --ag-background-color: #171717!important;
+     --ag-header-background-color: ##1B242B!important; 
+     --ag-odd-row-background-color: ##1B242B!important;
+   --ag-background-color: #12181D!important;
 }
 
 .circular--landscape { display: inline-block; position: relative; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; }
