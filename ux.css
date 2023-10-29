@@ -49,3 +49,26 @@ font-family: 'Anton';
     background-color: rgba(0,0,0,0.8)!important;
 }
 
+
+.ag-row .ag-cell {
+  display: flex;
+  justify-content: left; /* align horizontal */
+  align-items: center;
+}
+
+
+
+.ag-theme-balham {
+   --ag-header-background-color: #fafafa!important;
+    --ag-odd-row-background-color: #fafafa!important;
+    --ag-background-color: #ffffff!important;
+}
+
+.ag-theme-balham-dark {
+     --ag-header-background-color: #151515!important; 
+     --ag-odd-row-background-color: #151515!important;
+   --ag-background-color: #171717!important;
+}
+
+.circular--landscape { display: inline-block; position: relative; width: 30px; height: 30px; overflow: hidden; border-radius: 50%; } .circular--landscape img { width: auto; height: 100%; margin-left: -50px; }
+
